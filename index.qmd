@@ -20,10 +20,10 @@ execute:
 ::: {.home-grid-parent}
 ::: {.home-grid-child-left}
 
-# Epigenomics Data Analysis: from Bulk to Single Cell
+### NBIS Workshop
+## **Epigenomics Data Analysis**<br>From Bulk to Single Cell
 
-This workshop is an introduction to best practice bioinformatics methods for 
-processing, analyses and integration of epigenomics data. The online teaching 
+An introduction to best practice bioinformatics methods for processing, analyses and integration of epigenomics data. This online workshop 
 includes lectures, programming tutorials and interactive group sessions.
 
 ---

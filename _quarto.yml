@@ -93,7 +93,7 @@ format:
     image: "/assets/images/featured.webp"
     hero: "/assets/images/slide-hero.webp"
     title-slide-attributes:
-      data-background-image: "/assets/images/cover.webp"
+      data-background-image: "/assets/images/home.jpg"
       data-background-size: "cover"
       data-background-opacity: "1"
     subtitle: "NBIS Workshop"
