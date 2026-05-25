@@ -28,11 +28,7 @@ format:
 
 ## Venue
 
-<!-- update map markers in _metadata.yml -->
-{{< leaflet stockholm >}}
-
-<!-- additional practical information -->
-{{< include assets/locations/_stockholm.qmd >}}
+This course is given online.
 
 ## Organizers
 
@@ -41,7 +37,10 @@ format:
 
 ## Contact
 
-This event is organized by [NBIS](https://nbis.se/) in co-operation with National Genomics Infrastructure ([NGI](https://ngisweden.scilifelab.se/)). NBIS and NGI are platforms at the Science for Life Laboratory (SciLifeLab). NBIS is the Swedish node of [Elixir](https://elixir-europe.org/).
+This event is organized by [NBIS](https://nbis.se/) in co-operation with the
+National Genomics Infrastructure ([NGI](https://ngisweden.scilifelab.se/)). 
+NBIS and NGI are platforms at the Science for Life Laboratory (SciLifeLab). 
+NBIS is the Swedish node of [Elixir](https://elixir-europe.org/).
 
 For queries, write to us at **edu.epigenomics[at]nbis.se**.  
 
