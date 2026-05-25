@@ -1,6 +1,6 @@
 ---
 title: "Syllabus"
-subtitle: "Syllabus, learning outcomes and entry requirements"
+subtitle: "Syllabus, entry requirements and selection criteria"
 date: ""
 toc: false
 number-sections: false
@@ -12,33 +12,42 @@ format: html
 
 ## Syllabus
 
-The syllabus for this workshop are as follows.
+- Data processing and analyses for differential DNA methylation with Illumina 
+EPIC arrays and Bisulfite-seq 
+- ChIP-seq: overview of the methods, peak calling, peak independent/dependent 
+quality metrics, joint visualization of different chromatin marks
+- ATAC-seq: peak calling, peak independent/dependent quality metrics, 
+differential accessibility analysis
+- Integrative visualizations of epigenomics datasets
+- Motif analyses: PWMs, motif enrichment, regression-based approaches
+- Functional analyses, including finding nearest genes and custom features, 
+GO terms and Reactome pathways enrichment
+- Introduction to analysis of single cell omics such as scATAC-seq
 
-- Working on the unix/linux command line
-  - Command line navigation and related commands: cd, mkdir, rm, rmdir
-  - Commonly used linux tools: cp, mv, tar, less, more, head, tail, nano, grep, top, man
-  - Wildcards
-  - Ownership and permissions
-  - Symbolic links
-  - Piping commands
-- Working on remote computing cluster
-  - Logging on to UPPMAX
-  - Booking resources
-  - Job templates, submission and queues
-  - Modules
-
-## Learning outcomes
-
-After this workshop you should be able to:
-
-- Describe the basic principles of next generation sequencing.
-- Use the Linux command line interface to manage simple file processing operations, and organise directory structures.
-- Connect to and work on a remote compute cluster.
-- Apply programs in Linux for analysis of NGS data.
 
 ## Entry requirements
 
-- This is a national course open to PhD students, postdocs, group leaders and core facility staff.
-- A background in genetics, cell biology, biomedicine, biochemistry, bioinformatics or comparable is desirable.
+- To be able to follow the tutorials:
+  - BYOL, bring your own laptop with R and RStudio installed
+  - Basic knowledge in Linux
+  - Basic R programming experience
+
+- To make the learning experience easier:
+  - Experience working on the SNIC center Uppmax or another HPC
+  - Previous experience with NGS data analyses
+  - Completing NBIS workshops “Introduction to Bioinformatics using NGS data” 
+  and “R Programming Foundations for Life Scientists” or equivalent
+
+## Selection criteria
+
+- Due to limited capacity the workshop can accommodate maximum of 25 
+participants. If we receive more applications, participants will be selected 
+based on several criteria. Selection criteria include correct entry 
+requirements, motivation to attend the course as well as gender and 
+geographical balance.
+- NBIS prioritizes academic participants, especially PhD students affiliated 
+with Swedish universities. We warmly welcome international and/or non-academic 
+participants when we have seats available and the requirements criteria are met.
+
 
 :::
