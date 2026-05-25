@@ -5,18 +5,21 @@ date: ""
 sidebar: false
 team:
   organizers:
-    - name: "John Doe"
+    - name: "Agata Smialowska"
       image: "assets/images/profile/profile.webp"
       description: |
-        Data Scientist, Institute  
-        Associate Professor in Bioinformatics,  
-        University
-    - name: "John Doe"
+        Bioinformatician  
+        NBIS / Stockholm University
+    - name: "Dania Machlab"
       image: "assets/images/profile/profile.webp"
-      description: "Data Scientist, Institute"
-    - name: "John Doe"
+      description: |
+        Bioinformatician  
+        NBIS / Stockholm University
+    - name: "Louella Vasquez"
       image: "assets/images/profile/profile.webp"
-      description: "Data Scientist, Institute"
+      description: |
+        Bioinformatician  
+        NBIS / Lund University
 format:
   html:
     number-sections: false
@@ -25,15 +28,25 @@ format:
 
 ## Venue
 
-{{< leaflet ucl >}}
+<!-- update map markers in _metadata.yml -->
+{{< leaflet stockholm >}}
 
-{{< include assets/locations/_ucl.md >}}
+<!-- additional practical information -->
+{{< include assets/locations/_stockholm.qmd >}}
 
 ## Organizers
 
+<!-- organizers info up in the yaml matter -->
 {{< team organizers >}}
 
 ## Contact
 
-For queries, write to us at **contact[at]email.com**.  
+This event is organized by [NBIS](https://nbis.se/) in co-operation with National Genomics Infrastructure ([NGI](https://ngisweden.scilifelab.se/)). NBIS and NGI are platforms at the Science for Life Laboratory (SciLifeLab). NBIS is the Swedish node of [Elixir](https://elixir-europe.org/).
 
+For queries, write to us at **edu.epigenomics[at]nbis.se**.  
+
+---
+
+[[Epigenomics Data Analysis: From Bulk to Single Cell](https://nbisweden.github.io/workshop-epigenomics), a workshop created by [NBIS](https://nbis.se/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)]{.small}.
+
+![](assets/logos/nbis-scilifelab-ngi.svg){height="26px"}
