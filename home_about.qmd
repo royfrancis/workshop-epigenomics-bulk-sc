@@ -11,7 +11,7 @@ team:
         Bioinformatician  
         NBIS / Stockholm University
     - name: "Dania Machlab"
-      image: "assets/images/profile/profile.webp"
+      image: "assets/images/profile/Dania.JPEG"
       description: |
         Bioinformatician  
         NBIS / Stockholm University
@@ -46,6 +46,6 @@ For queries, write to us at **edu.epigenomics[at]nbis.se**.
 
 ---
 
-[[Epigenomics Data Analysis: From Bulk to Single Cell](https://nbisweden.github.io/workshop-epigenomics), a workshop created by [NBIS](https://nbis.se/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)]{.small}.
+[[Epigenomics Data Analysis: From Bulk to Single Cell](https://nbisweden.github.io/workshop-epigenomics), a workshop created by [NBIS](https://nbis.se/) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)]{.small}.
 
 ![](assets/logos/nbis-scilifelab-ngi.svg){height="26px"}
